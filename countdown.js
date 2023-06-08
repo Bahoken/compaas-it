@@ -1,5 +1,5 @@
 // Set the countdown date (YYYY-MM-DD)
-const countdownDate = new Date("2023-07-30").getTime();
+const countdownDate = new Date("2023-07-06").getTime();
 
 // Update the countdown every 1 second
 const countdown = setInterval(() => {

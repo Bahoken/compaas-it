@@ -10,7 +10,7 @@ body {
 }
 
 .compaas--head--logo {
-    width: 8rem;
+    width: 12rem;
 }
 
 .compaas--head--slogan {
@@ -26,14 +26,14 @@ body {
     padding-bottom: 3rem;
     display: flex;
     flex-wrap: wrap-reverse;
-    gap: 2rem;
+    gap: 3rem;
     align-items: center;
     justify-content: center;    
     margin: 0 auto;
 }
 
 .compaas--main--img {
-    width: 30rem;
+    width: 18rem;
 }
 
 .compaas--main--countdown--text {
@@ -41,6 +41,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
+    top: -2rem;
 }
 
 .compaas--main--text {
